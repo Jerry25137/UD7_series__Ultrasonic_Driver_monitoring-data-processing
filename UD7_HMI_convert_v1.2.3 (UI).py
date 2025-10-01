@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 22 15:52:13 2024
 
-Version：v1.2.2
+Version：v1.2.3
 
 """
 
@@ -708,3 +708,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = UD7_HMI_App(root)
     root.mainloop()
+
